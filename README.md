@@ -20,4 +20,4 @@ I'm Ana, a Data Analyst with design and development experience (i've done a litt
 
 I love working with user generated data, coding (lately i've been very into python) and diverse teams.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barretoana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barretoana&layout=compact)](https://github.com/barretoana?tab=repositories)
