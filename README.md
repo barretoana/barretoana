@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ### hey there! 
 
-I'm Ana, a Data Analyst with design and development experience (i've done a little bit of everything). 
+Product Data Analyst with over 6 years significant experience researching and building digital products. Fascinated by understanding user behavior through data. Communicative, never afraid to ask and always ready to try new things.
 
-I love working with user generated data, coding (lately i've been very into python) and diverse teams.
-
+More info on my projects can be found at anabarreto.work
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barretoana&layout=compact)](https://github.com/barretoana?tab=repositories)
